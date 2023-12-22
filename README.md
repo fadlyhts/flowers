@@ -1,6 +1,10 @@
 Proyek Akhir Pengolahan Citra 119
 
-    Penulis: Muhammad Athar Awliya, Fitria Rahayu Minsoeriahadi, Syafiq Ramadhan, Maulana Zidan Adi Wibowo, Ahmad Fadli Hutasuhut
+    Penulis: Muhammad Athar Awliya, 
+             Fitria Rahayu Minsoeriahadi, 
+             Syafiq Ramadhan, 
+             Maulana Zidan Adi Wibowo, 
+             Ahmad Fadli Hutasuhut
 
 Deskripsi
 
